@@ -1,2 +1,3 @@
 # blurple.vim
-Discord Inspired Neovim Theme
+> Discord Inspired Neovim Theme
+
